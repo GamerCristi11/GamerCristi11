@@ -2,7 +2,31 @@
   <a href="youtube.com/@Code2Craft">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?GamerCristi11&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
+<div id="views">
+  <img src="https://komarev.com/ghpvc/?username=GamerCristi11&style=flat-square&color=blue" alt=""/>
+</div>
+<h1>
+  Hello there!Welcome to my profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
+:man_technologist: About me:
+<p>-⚡I am a new developer trying to learn different coding languages!</p>
+<p>-😃I post random Roblox animations on YouTube but I will post tech stuff too!</p>
+<p>-🖥️I own a Raspberry Pi 4B, ESP32 and an Arduino Uno!</p>
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
+<div>
+  <h3>Coding languages I like:</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+</div>
+
+┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCristi11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
