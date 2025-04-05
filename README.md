@@ -17,7 +17,7 @@
 <p>-⚡I am a new developer trying to learn different coding languages!</p>
 <p>-😃I post random Roblox animations on YouTube but I will post tech stuff too!</p>
 <p>-🖥️I own a Raspberry Pi 4B, ESP32 and an Arduino Uno!</p>
-<p>-💻My website:</p><button onclick="window.location.href='https://code2craft.nekoweb.org/';">code2craft.nekoweb.org</button>
+<p>-💻My website:https://code2craft.nekoweb.org</p>
 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
