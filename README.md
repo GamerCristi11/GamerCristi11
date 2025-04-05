@@ -11,7 +11,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 <h3>👨‍💻 About me:</h3>
 <p>-⚡I am a new developer trying to learn different coding languages!</p>
@@ -19,7 +19,7 @@
 <p>-🖥️I own a Raspberry Pi 4B, ESP32 and an Arduino Uno!</p>
 <p>-💻My website:https://code2craft.nekoweb.org</p>
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 <div>
   <h3>Coding languages I like:</h3>
@@ -28,6 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerCristi11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
