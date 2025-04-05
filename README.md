@@ -13,7 +13,7 @@
 
 ┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉
 
-<h3👨‍💻 About me:</h3>
+<h3>👨‍💻 About me:</h3>
 <p>-⚡I am a new developer trying to learn different coding languages!</p>
 <p>-😃I post random Roblox animations on YouTube but I will post tech stuff too!</p>
 <p>-🖥️I own a Raspberry Pi 4B, ESP32 and an Arduino Uno!</p>
