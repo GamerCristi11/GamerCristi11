@@ -18,6 +18,9 @@
 <p>-😃I post random Roblox animations on YouTube but I will post tech stuff too!</p>
 <p>-🖥️I own a Raspberry Pi 4B, ESP32 and an Arduino Uno!</p>
 <p>-💻My website:https://code2craft.nekoweb.org</p>
+<a href="https://code2craft.nekoweb.org/">
+  <img src="https://code2craft.nekoweb.org/assets/banner-nekoweb.png" alt="Nekoweb Banner">
+</a>
 
 ---
 
